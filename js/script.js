@@ -28,7 +28,7 @@ $(document).ready(function() {
 
 	$(".last-column").click(function(){
 		$(".search").addClass("active-s");
-		$("body").removeClass("over");
+	
 	});
 
 	$(".search-close").click(function(){
